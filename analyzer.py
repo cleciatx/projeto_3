@@ -35,3 +35,7 @@ def analisar_logs(ficheiro):
         "top_ip": ip_counter.most_common(1)[0][0],
         "downloads": downloads
     }
+
+
+
+    ok
