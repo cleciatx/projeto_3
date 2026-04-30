@@ -1,5 +1,5 @@
 from collections import Counter
-sdfjksdf
+
 def analisar_logs(ficheiro):
     with open(ficheiro, "r") as f:
         linhas = f.readlines()
